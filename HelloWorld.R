@@ -1,0 +1,1 @@
+r1=-vb+sqrt((vb^2-4*va*vc)/2*va)

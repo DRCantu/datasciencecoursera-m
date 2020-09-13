@@ -3,9 +3,8 @@ title: "HelloWorld"
 author: "Roberto Cantu"
 date: "12 de septiembre de 2020"
 output:
-  html_document: default
-  pdf_document: default
----
+  md_document: default
+  ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
